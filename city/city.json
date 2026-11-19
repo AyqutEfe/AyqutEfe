@@ -1,0 +1,13 @@
+{
+  "user": "AyqutEfe",
+  "title": "Aykut Efe Çağlayan",
+  "subtitle": "Cloud & DevOps · Kubernetes · CI/CD",
+  "buildings": [
+    { "name": "ReAppKit", "repo": "ReAppKit", "commits": 96 },
+    { "name": "django-devops-lab", "repo": "django-devops-lab", "commits": 32 },
+    { "name": "CloudCity", "repo": "CloudCity", "commits": 31 },
+    { "name": "EventApproval", "repo": "EventApprovalSystem", "commits": 24 },
+    { "name": "TubitApp", "repo": "TubitApp", "commits": 29 },
+    { "name": "internship", "commits": 22 }
+  ]
+}

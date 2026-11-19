@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="52" viewBox="0 0 860 52" role="img" aria-label="Open my LinkedIn profile">
+<style>text { font-family: ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace; font-size: 14px; white-space: pre }
+.blink { animation: blink 1s steps(1) infinite } @keyframes blink { 50% { opacity: 0 } }
+.glow { animation: glow 2.4s ease-in-out infinite } @keyframes glow { 0%,100% { stroke-opacity: .35 } 50% { stroke-opacity: 1 } }</style>
+<rect x=".5" y=".5" width="859" height="51" rx="10" fill="#0d1117" stroke="#30363d"/>
+<rect class="glow" x="3" y="3" width="854" height="46" rx="8" fill="none" stroke="#5fd4ff"/>
+<text x="24" y="31"><tspan fill="#7ee0b5">aykut@cloud:~$ </tspan><tspan fill="#c9d1d9">open </tspan><tspan fill="#5fd4ff" text-decoration="underline">https://linkedin.com/in/aykut-efe-caglayan</tspan></text>
+<rect class="blink" x="566" y="18" width="8" height="16" fill="#c9d1d9"/>
+<text x="836" y="31" text-anchor="end" fill="#6e7681">click to connect ↗</text>
+</svg>
