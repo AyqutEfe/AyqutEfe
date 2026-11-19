@@ -537,6 +537,6 @@ text { white-space: pre }
 <text x="44" y="68" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="34" font-weight="700" fill="#0b1533">Aykut Efe Çağlayan</text>
 <text x="46" y="94" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="16" fill="#0b4f8a">Cloud &amp; DevOps · Kubernetes · CI/CD</text></g>
 <g class="in" style="animation-delay:.5s"><text x="46" y="120" font-family="ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="12.5" fill="#0b5d3b">$ kubectl get city  →  6 services · 5 Ready · 1 Degraded (django-devops-lab)</text>
-<text x="46" y="140" font-family="ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="12.5" fill="#0b5d3b" opacity=".8">$ git log --since=1y | wc -l  →  287 contributions</text>
+<text x="46" y="140" font-family="ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="12.5" fill="#0b5d3b" opacity=".8">$ git log --since=1y | wc -l  →  288 contributions</text>
 </g>
 </svg>
